@@ -1,0 +1,5 @@
+add -l /media/vol1/music-all
+clear -l
+colorscheme base16-bespin
+add -l /media/vol1/~~ MUSIC
+add
