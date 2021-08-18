@@ -1,5 +1,4 @@
 # dotfiles
-dotfiles
 
 https://github.com/Airblader/i3
 
